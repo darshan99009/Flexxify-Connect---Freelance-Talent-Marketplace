@@ -1,6 +1,6 @@
 # Flexxify - Freelance Platform
 
-![Flexxify Logo](logo.png)
+![Flexxify Logo](images/logo.png.jpg)
 
 A complete freelancing platform connecting businesses with skilled professionals, built with PHP and MySQL.
 
