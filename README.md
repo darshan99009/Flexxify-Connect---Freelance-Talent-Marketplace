@@ -1,4 +1,4 @@
-# Flexxify - Freelance Platform
+# Flexxify-Connect---Freelance-Talent-Marketplace
 
 ![Flexxify Logo](images/logo.png.jpg)
 
