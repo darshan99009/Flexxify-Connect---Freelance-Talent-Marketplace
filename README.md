@@ -21,7 +21,7 @@ A complete freelancing platform connecting businesses with skilled professionals
   - Rating system
   - Complaint handling
 # File Structure 
-```
+ ```
  flexxify/
 ├── assets/                  # All static assets
 │   ├── logo.png             # Main application logo
@@ -46,7 +46,8 @@ A complete freelancing platform connecting businesses with skilled professionals
 │
 ├── style.css                # Main stylesheet
 ├── database_schema.sql      # Database structure
-└── README.md                # Project documentation ```
+└── README.md                # Project documentation
+```
 
 
 ## Database Schema
