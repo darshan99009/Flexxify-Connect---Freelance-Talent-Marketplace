@@ -74,7 +74,7 @@ Darshan Gowda S (20221IST0055)
 Krishna Kumar Jha (20221IST0058)  
 Students at Presidency University
 
-**Project for Completion of the Subject : Frontend Full Stack Development **
+**Project for Completion of the Subject :** Frontend Full Stack Development
 **Institution:** Presidency University  
 **Year:** 2024 
 ## License
