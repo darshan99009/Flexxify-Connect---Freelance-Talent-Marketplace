@@ -20,33 +20,33 @@ A complete freelancing platform connecting businesses with skilled professionals
   - Profile customization
   - Rating system
   - Complaint handling
-
-## File Structure
-**flexxify/
-├── assets/*
-│ ├── logo.png
-│ ├── p1.png
-│ ├── p2.png
-│ ├── p3.jpg
-│ └── p4.jpg
+# File Structure 
+```
+ flexxify/
+├── assets/                  # All static assets
+│   ├── logo.png             # Main application logo
+│   ├── p1.png               # Carousel image 1
+│   ├── p2.png               # Carousel image 2
+│   ├── p3.jpg               # Carousel image 3
+│   └── p4.jpg               # Carousel image 4
 │
-├── includes/
-│ └── db_connection.php
+├── includes/                # Backend includes
+│   └── db_connection.php    # Database configuration
 │
-├── public/
-│ ├── index.php
-│ ├── about.php
-│ ├── complaint.php
-│ ├── find-jobs.php
-│ ├── login.php
-│ ├── logout.php
-│ ├── post-job.php
-│ ├── signup.php
-│ └── thank.html
+├── public/                  # Main application files
+│   ├── index.php            # Homepage
+│   ├── about.php            # About page
+│   ├── complaint.php        # Complaint system
+│   ├── find-jobs.php        # Job search
+│   ├── login.php            # Login page
+│   ├── logout.php           # Logout handler
+│   ├── post-job.php         # Job posting
+│   ├── signup.php           # Registration
+│   └── thank.html           # Confirmation page
 │
-├── style.css
-├── database_schema.sql
-└── README.md**
+├── style.css                # Main stylesheet
+├── database_schema.sql      # Database structure
+└── README.md                # Project documentation ```
 
 
 ## Database Schema
